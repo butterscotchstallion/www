@@ -17,6 +17,7 @@
 			<li><a href="<!--#echo var="VIRTROOT"-->history.shtml">History and Growth</a></li>
 		</ul></li>
 		<li><a href="<!--#echo var="VIRTROOT"-->philosophy.shtml">Philosophy</a>
+		<li><a href="<!--#echo var="VIRTROOT"-->privacy.shtml">Privacy Policy</a>
 		<ul>
 			<li><a href="<!--#echo var="VIRTROOT"-->catalysts.shtml">Catalysts</a></li>
 			<li><a href="<!--#echo var="VIRTROOT"-->channel_guidelines.shtml">Channel Guidelines</a></li>

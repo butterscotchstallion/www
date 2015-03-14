@@ -1,0 +1,22 @@
+
+<!--#set var="page_title" value="Privacy Policy" -->
+<!--#set var="content_title" value="Privacy Policy" -->
+<!--#include file="include/header-mainlogos.shtml" -->
+
+<h2>Information Gathering and Usage</h2>
+
+<h4>What information is required for registration with services?</h4>
+<p>
+    You will need a valid email address to complete registration. This address is used to help you
+    recover your account if you misplace your password. This address is hidden from others by default
+    through the NickServ's HideMail option.
+</p>
+
+<h4>Does freenode collect data about public or private channel messages? If so, what data and how long is it kept?</h4>
+<p>
+    Public and private messages are not logged at the network level. However, other clients connected to the network can log public and private messages.
+</p>
+
+
+
+<!--#include file="include/trailer.shtml" -->
